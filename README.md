@@ -2,16 +2,17 @@
 
 Stanford's CS229 course taught by Andrew Ng is the most popular Machine Learning course Worldwide. It provides an overview of techniques for supervised, unsupervised, and reinforcement learning, as well as some results from computational learning theory. 
 
-I will complete the online version and finish the problem sets in this repo.
+I will complete the online version and finish the problem sets of CS229 2018 Fall in this repo.
 
 ## Course Resources
 
-- [ ] [All lecture notes, slides, and problem sets](http://cs229.stanford.edu/syllabus.html) for CS229: Machine Learning course.
-- [ ] [All videos of CS229 lectures (2018 Fall)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) are available on YouTube.
-- [ ] [All videos of CS229 lectures (2018 Fall)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) are available on YouTube.
-- [ ] [The simplified version of CS229](https://www.coursera.org/learn/machine-learning) is available on Coursera.
+- [ ] CS229 lecture notes: [Latest](http://cs229.stanford.edu/syllabus.html) | [2008](https://see.stanford.edu/course/cs229).
+- [ ] CS229 lecture videos: [2018 Fall](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|[2008](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599).
+- [ ] CS229 problem sets: [2018 Fall](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [ ] The simplified version of CS229: [Coursera](https://www.coursera.org/learn/machine-learning)
 
 ## Other Resources
 - [ ] [CS229 final project information](http://cs229.stanford.edu/projects.html) 
-- [ ] [Machine learning glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
 - [ ] [CS229 cheatsheet by Afshine Amidi and Shervine Amidi](https://stanford.edu/~shervine/teaching/cs-229/)
+- [ ] [Machine learning glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [ ] [Exercises in Python skeleton](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
