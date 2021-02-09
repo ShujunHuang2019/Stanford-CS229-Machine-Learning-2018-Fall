@@ -12,7 +12,8 @@ I will complete the online version and finish the problem sets of CS229 2018 Fal
 - [ ] The simplified version of CS229: [Coursera](https://www.coursera.org/learn/machine-learning)
 
 ## Other Resources
-- [ ] [CS229 final project information](http://cs229.stanford.edu/projects.html) 
 - [ ] [CS229 cheatsheet by Afshine Amidi and Shervine Amidi](https://stanford.edu/~shervine/teaching/cs-229/)
+- [ ] [CS229-Cousera notes by Haihuang Huang](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+- [ ] [CS229 final project information](http://cs229.stanford.edu/projects.html) 
 - [ ] [Machine learning glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
 - [ ] [Exercises in Python skeleton](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
