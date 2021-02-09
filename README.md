@@ -8,7 +8,7 @@ I will complete the online version and finish the problem sets of CS229 2018 Fal
 
 - [ ] CS229 lecture notes: [Latest](http://cs229.stanford.edu/syllabus.html) | [2008](https://see.stanford.edu/course/cs229).
 - [ ] CS229 lecture videos: [2018 Fall](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|[2008](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599).
-- [ ] CS229 problem sets: [2018 Fall](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [ ] CS229 problem sets: [2018 Fall](https://github.com/maxim5/cs229-2018-autumn/tree/main/problem-sets)
 - [ ] The simplified version of CS229: [Coursera](https://www.coursera.org/learn/machine-learning)
 
 ## Other Resources
