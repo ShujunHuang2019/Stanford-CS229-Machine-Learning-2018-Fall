@@ -12,3 +12,5 @@ I will complete the online version and finish the problem sets in this repo.
 
 ## Other Resources
 - [ ] [The CS229 final project information](http://cs229.stanford.edu/projects.html) 
+- [ ] [Machine learning glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [ ] [The CS229 cheatsheet by Afshine Amidi and Shervine Amidi](https://stanford.edu/~shervine/teaching/cs-229/)
